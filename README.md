@@ -27,14 +27,7 @@ Currently working as **SDE-II (Full-Stack and Cloud)** at **Artec Engine, UK**, 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=react,js,php,laravel,spring,angular,flutter,mysql,postgresql,mongodb,aws,gcp,docker,linux,nginx,git&perline=8" />
 </div>
 
 ### Frontend
@@ -92,10 +85,6 @@ Currently working as **SDE-II (Full-Stack and Cloud)** at **Artec Engine, UK**, 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=richadali&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=richadali&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
-
 ---
 
 ## 🏆 Achievements & Recognition
@@ -130,11 +119,11 @@ I'm always open to discussing new opportunities, interesting projects, or just h
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=richadali&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/richadali/richadali/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/richadali/richadali/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/richadali/richadali/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=richadali&bg_color=0d1117&color=ffffff&line=00b4d8&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  </div>
   
   *"Building the future, one line of code at a time."*
 </div>
