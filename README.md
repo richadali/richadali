@@ -110,7 +110,7 @@ I'm always open to discussing new opportunities, interesting projects, or just h
   **📞 Phone:** +91 7002615524
   
 </div>
-
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 ---
 
 <div align="center">
