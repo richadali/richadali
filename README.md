@@ -1,8 +1,10 @@
 <div align="center">
   
-  # Hi there, I'm Richad Yamin Ali! 👋
+  # Hi there, I'm Richad Yamin Ali! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
   
   ### 🚀 Experienced Full Stack Developer | Software Engineer | Cloud Enthusiast
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+with+5%2B+years+experience;PHP+%7C+React+%7C+SpringBoot+%7C+Cloud+Expert;Building+scalable+applications+%26+server+environments;Always+learning+new+technologies!" alt="Typing SVG" />
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-richadali.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://richadali.dev/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-richadyaminali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richadyaminali/)
@@ -23,6 +25,17 @@ Currently working as **SDE-II (Full-Stack and Cloud)** at **Artec Engine, UK**, 
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+</div>
 
 ### Frontend
 
@@ -71,12 +84,16 @@ Currently working as **SDE-II (Full-Stack and Cloud)** at **Artec Engine, UK**, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richadali&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richadali&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=richadali&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richadali&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=richadali&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=richadali&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -112,6 +129,12 @@ I'm always open to discussing new opportunities, interesting projects, or just h
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=richadali&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/richadali/richadali/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/richadali/richadali/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/richadali/richadali/output/github-contribution-grid-snake.svg">
+  </picture>
   
   *"Building the future, one line of code at a time."*
 </div>
