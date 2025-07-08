@@ -118,11 +118,9 @@ I'm always open to discussing new opportunities, interesting projects, or just h
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=richadali&bg_color=0d1117&color=ffffff&line=00b4d8&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/richadali/richadali/output/github-contribution-grid-snake2.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/richadali/richadali/output/github-contribution-grid-snake2.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/richadali/richadali/output/github-contribution-grid-snake2.svg">
-  </picture>
+  <div align="center">
+    <img src="https://github.com/richadali/richadali/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
+  </div>
   
   <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
