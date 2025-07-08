@@ -119,7 +119,7 @@ I'm always open to discussing new opportunities, interesting projects, or just h
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=richadali&bg_color=0d1117&color=ffffff&line=00b4d8&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
   
   <div align="center">
-    <img src="https://github.com/richadali/richadali/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" alt="Footer" />
   </div>
   
   <div align="center">
