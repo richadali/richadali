@@ -113,7 +113,5 @@ I'm always open to discussing new opportunities, interesting projects, or just h
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=richadali&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   
-  ⭐ **Star this repository if you find it helpful!**
-  
   *"Building the future, one line of code at a time."*
 </div>
