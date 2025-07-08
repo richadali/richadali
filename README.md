@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://richadali.dev/HeroImage.jpg" alt="Richad Yamin Ali" width="200" height="200" style="border-radius: 50%;" />
   
   # Hi there, I'm Richad Yamin Ali! 👋
   
@@ -66,90 +65,6 @@ Currently working as **SDE-II (Full-Stack and Cloud)** at **Artec Engine, UK**, 
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![Magento](https://img.shields.io/badge/Magento-FF6C37?style=for-the-badge&logo=magento&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
----
-
-## 💼 Professional Experience
-
-### 🔥 **SDE-II (Full-Stack and Cloud)** | _Artec Engine, UK_ | `Dec 2024 - Present`
-
-- 📱 Developed comprehensive **Flutter mobile application** for warehouse management with QR scanning and real-time inventory tracking
-- 🔄 Built robust **PHP integration system** using **GraphQL** for Shopify-MySQL data synchronization
-- ☁️ Deployed scalable **AWS infrastructure** (EC2, S3) for Magento, Laravel, and WordPress applications
-- 🎫 Created end-to-end **ticketing system** improving internal support response times by **60%**
-- 💬 Integrated **Chatwoot** with **Facebook API** for WhatsApp customer support automation
-
-### 🏛️ **Programmer (Full-Stack)** | _NIC Shillong, Meghalaya_ | `Mar 2023 - Nov 2024`
-
-- 🎯 Developed **OAP System** for DIPR using Laravel, reducing manual processing time by **80%**
-- 🌐 Built comprehensive **CMS for NIC** with Laravel, PostgreSQL, and Vue.js
-- 🔐 Integrated secure **GRAS payment gateway** with Meghalaya RTI Online application
-- 🖥️ Set up and configured **Ubuntu server machines** for application deployment
-- 🔄 Engineered automated **data synchronization system** with Laravel and Cron jobs
-
-### 📊 **Software Engineering Intern** | _Vantage Circle, Guwahati_ | `Feb 2022 - Aug 2022`
-
-- 📈 Designed web application for **real-time employee engagement** score comparison
-- 🧠 Developed algorithms to analyze and quantify **employee experience metrics**
-- 🏢 Created intelligent **classification system** for company benchmarking based on LinkedIn data
-
----
-
-## 🎓 Education
-
-**🎓 Master of Computer Applications (MCA)** | _Jorhat Engineering College_ | `2019-2022`
-
-- CGPA: **8.75/10**
-- Assam Science and Technology University
-
-**🎓 Bachelor of Computer Applications (BCA)** | _Jagannath Barooah College_ | `2016-2019`
-
-- Score: **73.52%**
-- Dibrugarh University
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 **AI Travel Planner** | `2025`
-
-**Next.js • Tailwind CSS • Shadcn • Google Gemini**
-
-> AI-powered travel planning application generating personalized itineraries with daily activities, accommodations, and budget breakdown.
-
-🔗 [Live Demo](https://richadali.dev/ai-travel-planner)
-
-### 🏠 **Aashroy** | `2021` | 🏆 **Hackathon Winner**
-
-**PHP • MySQL • Google Maps API • 2Factor**
-
-> Mapping system to track homeless people in Assam with volunteer-NGO coordination and anonymous crime reporting.
-
-🔗 [GitHub](https://github.com/richadYamin/aashroy)
-
-### ✈️ **Aum Tours and Travels** | `2024`
-
-**PHP • MySQL • Bootstrap • JavaScript**
-
-> Comprehensive travel website with tour packages, hotel bookings, and customer support system.
-
-🔗 [Live Website](https://aumtoursandtravels.in/)
-
-### 📱 **JEC College Canteen App** | `2022`
-
-**Flutter • Firebase • PHP • MySQL**
-
-> Android app for college canteen with credit-based ordering system for departments and faculties.
-
-🔗 [GitHub](https://github.com/richadYamin/jec-canteen-app)
-
-### 🔤 **Soundex for Bodo Language** | `2021`
-
-**PHP • MySQL • Linguistics • Algorithm Design**
-
-> Soundex system solving misspelled words problem in Bodo Language/Devanagari Script.
-
-🔗 [GitHub](https://github.com/richadYamin/bodo-soundex)
 
 ---
 
